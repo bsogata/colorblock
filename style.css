@@ -1,0 +1,72 @@
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
+  font-family: "Average", sans-serif;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  font-family: "Proxima Nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 15px;
+  color: white;
+  padding-top: 1.5em;
+  padding-left: 25px;
+}
+
+.navbar {
+  height: 70px;
+  background-color: black;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 30px;
+  top: 5px;
+}
+
+.uikit {
+  background-color: blue;
+  color: white;
+  height: 670px;
+}
+
+.features {
+  background-color: lightblue;
+  color: white;
+  height: 630px;
+}
+
+.getinvolved {
+  background-color: white;
+  color: black;
+  height: 500px;
+}
+
+.opensource {
+  background-color: lightblue;
+  color: white;
+  height: 500px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  height: 300px;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 4em;
+}
+
+.img-body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5em;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Fjalla One";
+}
+
+.opensource > img {
+  height: 200px;
+}
